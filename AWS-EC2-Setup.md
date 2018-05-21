@@ -57,6 +57,7 @@ $ pip3 install py4j
 ```
 
 **7. Installing Spark**
+
 Get the spark file from apache.org archives
 ```
 $ wget http://archive.apache.org/dist/spark/spark-2.1.1/spark-2.1.1-bin-hadoop2.7.tgz
