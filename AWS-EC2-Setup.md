@@ -78,7 +78,9 @@ $ cd    # go back to home dir
 ```
 We will need this path while connecting via jupyter notebook
 
-**9. Install [findspark](https://github.com/minrk/findspark) module. PySpark isn't on sys.path by default. It helps us to connect python with spark very easily.**
+**9. Install [findspark](https://github.com/minrk/findspark) module.**
+
+PySpark isn't on sys.path by default. It helps us to connect python with spark very easily.
 ```
 $ pip3 install findspark
 ```
